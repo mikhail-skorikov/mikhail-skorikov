@@ -1,9 +1,9 @@
-<!--## Hi there 👋
+## Hi there 👋
 - I work with Django, DRF, Channels, Celery, Htmx, and many other tools that go well with, or are for, Django.
 - I am currently working on a multi-tenant service platform with Django, which is big for one dev. Alas, it is private.
 - I love open source software, although I barely have time to contribute, despite my desire to do so.
 - Reach me at michaelskorikov@gmail.com
-
+<!--
 **mikhail-skorikov/mikhail-skorikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
